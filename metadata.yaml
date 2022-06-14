@@ -1,5 +1,5 @@
 homepage: "https://www.hellobar.com"
 documentation: "https://hellobarassist.freshdesk.com/support/solutions/articles/44001406936-how-to-install-hello-bar-using-google-tag-manager-gtm-"
 versions:
-  - sha: 8d6bc787f547264e78a2aeb11a1f7ff80bcb0d99
+  - sha: 82811dabf1fe70511f3583b43e66b14afa72826d
     changeNotes: Initial release.
